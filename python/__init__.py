@@ -55,6 +55,7 @@ from ctime_plot import *;
 from raster_plot import *;
 from cpsd_plot import *;
 from time_plot import *;
+from spectrum_plot import *;
 from time_hist import *;
 from value_plot import *;
 from value_hist import *;

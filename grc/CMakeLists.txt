@@ -21,6 +21,7 @@ install(FILES
     pdu_lambda.xml
     stream_lambda.xml
     time_plot.xml
+    spectrum_plot.xml
     raster_plot.xml
     time_hist.xml
     set_title.xml

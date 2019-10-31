@@ -41,6 +41,7 @@ GR_PYTHON_INSTALL(
     value_hist.py
     cpsd_plot.py
     time_plot.py
+    spectrum_plot.py
     time_hist.py
     cpower_plot.py
     plotter_base.py
